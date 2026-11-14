@@ -1,0 +1,1 @@
+window.LANDSAT={"file": "landsat_ndvi.png", "bounds": [[30.78902, 31.81408], [30.971253, 32.025365]], "scene": "LC09_L2SP_176039_20251116_20251118_02_T1", "sat": "Landsat 9", "date": "2025-11-16", "cloud": 14.38};
